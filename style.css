@@ -1,4 +1,8 @@
 #nav {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 #content-section {
@@ -21,4 +25,32 @@
 #logo {
   width: 150px;
   height: 90px;
+}
+
+#search-button {
+  width: 50px;
+  height: 28px;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+}
+#search-section {
+  width: 40%;
+  margin-top: 22px;
+}
+
+#search-box {
+  width: 80%;
+  padding: 5px;
+}
+
+#nav-icons {
+  margin-top: 30px;
+}
+
+#searh-icon {
+  width: 15px;
+  height: 15px;
 }
