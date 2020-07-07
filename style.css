@@ -52,3 +52,17 @@
   width: 15px;
   height: 15px;
 }
+
+#views {
+  color: lightslategrey;
+}
+
+.like-icon {
+  width: 30px;
+  height: 30px;
+}
+
+#video-info {
+  display: flex;
+  flex-direction: row;
+}
