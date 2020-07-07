@@ -6,14 +6,12 @@
 }
 
 #content-section {
-  background-color: violet;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 
 #video-section {
-  background-color: red;
   width: 60%;
 }
 
