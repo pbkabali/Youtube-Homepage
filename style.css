@@ -1,0 +1,22 @@
+#nav {
+background-color: aqua;
+} 
+
+#content-section {
+    background-color: violet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#video-section {
+background-color: red;
+width: 60%;
+}
+
+#side-bar {
+background-color: springgreen;
+width: 30%;
+
+}
+
