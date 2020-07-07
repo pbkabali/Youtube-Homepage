@@ -1,22 +1,24 @@
 #nav {
-background-color: aqua;
-} 
+}
 
 #content-section {
-    background-color: violet;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+  background-color: violet;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 #video-section {
-background-color: red;
-width: 60%;
+  background-color: red;
+  width: 60%;
 }
 
 #side-bar {
-background-color: springgreen;
-width: 30%;
-
+  background-color: springgreen;
+  width: 30%;
 }
 
+#logo {
+  width: 150px;
+  height: 90px;
+}
