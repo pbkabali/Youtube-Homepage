@@ -58,11 +58,24 @@
 }
 
 .like-icon {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+  margin-right: 10px;
+  position: relative;
+  top: 14px;
 }
 
-#video-info {
+.video-info {
   display: flex;
   flex-direction: row;
+}
+
+#owner-avatar {
+  width: 50px;
+  height: 50px;
+}
+
+#like-icon {
+  margin-left: auto;
 }
