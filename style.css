@@ -16,7 +16,6 @@
 }
 
 #side-bar {
-  background-color: springgreen;
   width: 30%;
 }
 
@@ -78,4 +77,30 @@
 
 #like-icon {
   margin-left: auto;
+}
+
+.side-images {
+  width: 50%;
+  height: 8em;
+  margin: 1em;
+  margin-left: -2em;
+}
+
+.side-image-div {
+  display: flex;
+  flex-direction: row;
+}
+
+#next-video {
+  margin-left: -2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+h5 {
+  margin: 0em;
+}
+
+h4 {
+  margin-bottom: 0.5em;
 }
