@@ -3,6 +3,10 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-top: 0.5em;
+  position: fixed;
+  top: 0;
+  width: 98%;
 }
 
 #content-section {
@@ -11,6 +15,7 @@
   justify-content: space-around;
   background-color: #f9f9f9;
   padding-top: 2em;
+  margin-top: 3em;
 }
 
 #video-section {
