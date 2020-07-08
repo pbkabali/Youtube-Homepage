@@ -1,3 +1,5 @@
+/* Nav bar */
+
 #nav {
   justify-content: center;
   display: flex;
@@ -8,23 +10,6 @@
   top: 0;
   width: 98%;
   background-color: #ffffff;
-}
-
-#content-section {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  background-color: #f9f9f9;
-  padding-top: 2em;
-  margin-top: 3em;
-}
-
-#video-section {
-  width: 60%;
-}
-
-#side-bar {
-  width: 30%;
 }
 
 #logo {
@@ -68,6 +53,25 @@
   margin-top: 0.5em;
 }
 
+/* Contents Section */
+
+#content-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #f9f9f9;
+  padding-top: 2em;
+  margin-top: 3em;
+}
+
+/* Video Section */
+
+#video-section {
+  width: 60%;
+}
+
+/*Video Info Section */
+
 #views {
   color: lightslategrey;
 }
@@ -102,6 +106,12 @@
 
 #like-icon {
   margin-left: auto;
+}
+
+/* Side-Bar */
+
+#side-bar {
+  width: 30%;
 }
 
 .side-images {
