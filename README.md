@@ -2,6 +2,8 @@
 
 This is a clone of the YouTube Video Player Page
 
+![Screenshot](./images/Screenshot.png)
+
 # Built with
 
 - HTML
@@ -49,7 +51,7 @@ Feel free to check the [issues page](https://github.com/pbkabali/Youtube-Homepag
 
 # Show your support
 
-Give a ![Thumps up](https://img.icons8.com/fluent/15/000000/star.png) if you like this project
+Give a ![Thumbs up](https://img.icons8.com/fluent/15/000000/star.png) if you like this project
 
 # Acknowledgments
 
