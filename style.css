@@ -1,0 +1,142 @@
+/* Nav bar */
+
+#nav {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 0.5em;
+  position: fixed;
+  top: 0;
+  width: 98%;
+  background-color: #ffffff;
+}
+
+#logo {
+  width: 7em;
+  height: 2.5em;
+}
+
+#search-button {
+  width: 4.5em;
+  height: 2.6em;
+}
+
+.icon {
+  width: 1.5em;
+  height: 1.5em;
+  margin-left: 1em;
+}
+
+.main-avatar {
+  width: 2.5em;
+  height: 2.5em;
+}
+
+#search-section {
+  width: 60%;
+  margin-top: 0em;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3em;
+}
+
+#search-box {
+  width: 80%;
+  height: 2.1em;
+  border-end-end-radius: 0em;
+}
+
+#searh-icon {
+  width: 1.5em;
+  height: 1.5em;
+  margin-top: 0.5em;
+}
+
+/* Contents Section */
+
+#content-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #f9f9f9;
+  padding-top: 2em;
+  margin-top: 3em;
+}
+
+/* Video Section */
+
+#video-section {
+  width: 60%;
+}
+
+/*Video Info Section */
+
+#views {
+  color: lightslategrey;
+}
+
+.like-icon {
+  width: 1em;
+  height: 1em;
+  margin-left: 1.2em;
+  margin-right: 0.6em;
+  position: relative;
+  top: 0.8em;
+}
+
+.video-info {
+  display: flex;
+  flex-direction: row;
+}
+
+#owner-avatar {
+  width: 4em;
+  height: 4em;
+}
+
+#subscribe-button {
+  width: 8em;
+  height: 2.5em;
+  background-color: #cc0000;
+  color: #fff;
+  border-color: #cc0000;
+  border-radius: 0.2em;
+}
+
+#like-icon {
+  margin-left: auto;
+}
+
+/* Side-Bar */
+
+#side-bar {
+  width: 30%;
+}
+
+.side-images {
+  width: 50%;
+  height: 8em;
+  margin: 1em;
+  margin-left: -2em;
+}
+
+.side-image-div {
+  display: flex;
+  flex-direction: row;
+}
+
+#next-video {
+  margin-left: -2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+h5 {
+  margin: 0em;
+}
+
+h4 {
+  margin-bottom: 0.5em;
+  margin-top: 0.8em;
+}
